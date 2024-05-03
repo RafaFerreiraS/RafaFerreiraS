@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rafael Ferreira, Software Developer 👨‍💻 working since 2011 🚀</div>  
   
 
-- 🔭 I’m currently working on [Thomson Reuters](https://github.com/ThomsonReuters)  
+- 🔭 I’m currently working on [Dimensa](https://dimensa.com/)  
   
 
 - 🌱I am currently improving my knowledge in new technologies such as Python and Go  
